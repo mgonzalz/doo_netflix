@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # Local apps
     'streaming',
+    'authentication',
 
 
     # Third party apps
